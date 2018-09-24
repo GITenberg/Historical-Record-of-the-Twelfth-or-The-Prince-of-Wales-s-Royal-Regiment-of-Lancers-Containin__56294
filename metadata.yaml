@@ -1,5 +1,8 @@
 _repo: Historical-Record-of-the-Twelfth-or-The-Prince-of-Wales-s-Royal-Regiment-of-Lancers-Containin__56294
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56294-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '45414'
     url: http://www.gutenberg.org/2009/agents/45414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56294#Historical-Record-of-the-Twelfth-or-The-Prince-of-Wales-s-Royal-Regiment-of-Lancers-Containin_
 gutenberg_issued: '2018-01-02'
 gutenberg_type: Text
 identifiers:
